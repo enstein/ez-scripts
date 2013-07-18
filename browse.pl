@@ -2,6 +2,7 @@
 use strict;
 use LWP;
 use HTML::Form;
+use HTTP::Cookies;
 use Data::Dumper;
 
 
